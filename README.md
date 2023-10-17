@@ -24,7 +24,7 @@
 ## Architecture Diagram
 
 <p align="center">
-  <img src="https://github.com/otam-mato/nodejs_elk/assets/113034133/dde1d276-b182-4b70-b5f3-9ce4c707f086" width="700px"/>
+  <img src="https://github.com/otam-mato/nodejs_elk/assets/113034133/dde1d276-b182-4b70-b5f3-9ce4c707f086" width="800px"/>
 </p>
 
 <br>
