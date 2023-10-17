@@ -79,3 +79,28 @@ The app sets up a web server for a supplier management system. It allows viewing
 </details>
 
 <br>
+
+<details markdown=1><summary markdown="span">Details of the Logging solution</summary>
+
+## Summary
+
+The implemented logging solution maintains a detailed diary (logs) of everything that happens, ensuring transparency and traceability. It is based on 'Bunyan logger'.
+
+### The Logging Solution:
+
+#### **Setting up and Distinguishing Logs**:
+   - A special logger (`appLogger`) ensures that all the server's actions are noted down separately from other potential system logs. In my case, I want to sepatrate `app` logs from `config` logs.
+     - Configuration-related logs will be marked with source: 'config'.
+     - All other application-related logs will be marked with source: 'app'.
+   This way, by looking at the log source, you can easily identify where the log came from.
+
+#### **Capturing All Messages**:
+   - The common ways developers use to write logs (like just printing messages) are tweaked. Now, instead of only printing, they make sure messages are properly recorded using `appLogger`.
+
+#### **Monitoring Requests**:
+   - Every time someone interacts with the server, `logRequests` notes down what they did and which part of the server they accessed.
+
+#### **Server Activities**:
+   - Be it starting up, or any supplier-related activity like viewing, adding, or deleting, everything gets its own log entry.
+
+</details>
