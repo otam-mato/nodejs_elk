@@ -144,7 +144,7 @@ Kibana is the visualization layer of the ELK stack. It provides search and data 
 
 ### **How They Work Together**:
 
-- **Data Collection & Processing**: Logstash collects data from various sources. It then processes, transforms, and enriches the data based on user-defined rules.
+- **Data Collection & Processing**: Logstash collects data from various sources. In our case, we employ bunyan for that. It then processes, transforms, and enriches the data based on user-defined rules.
   
 - **Data Storage**: Once processed, Logstash sends the data to Elasticsearch for storage. Elasticsearch indexes the data, making it quickly searchable.
   
