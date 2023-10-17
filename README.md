@@ -17,7 +17,7 @@
 
 2. ELK stack deployed within three containers using 'Docker-compose'.
 
-3. MySQL database deployed as a Docker container on the same workstation.
+3. MySQL database deployed as a Docker container.
 
 <br>
 
