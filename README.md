@@ -28,7 +28,7 @@
 - **Express**
 - **JavaScript**
 - **MySQL**
-- **Docker, Docker-compose**
+- **Docker, Docker-Compose**
 - **AWS**
 - **EC2**
 <br>
@@ -165,8 +165,8 @@ Follow these steps for successful implementation:
 1. [**Modify the app files to employ Bunyan for logging**]()
 2. [**Launch the app**]()
 3. [**Launch the Dockerized MySQL server**]()
-4. [**Launch Elastic Search, Logstash, Kibana using Docker-compose manifest**]()
-5. [**Set up Kibana**]()
+4. [**Launch Elastic Search, Logstash, Kibana using Docker-Compose manifest**]()
+5. [**Set up Kibana (index pattern and dashboard)**]()
 6. [**Test the app**]()
 
 <br>
