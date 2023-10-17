@@ -13,11 +13,11 @@
 
 ## Deployment Strategy
 
-1. The Node.js app on the AWS EC2 instance. The app configuration modified to employ ['bunyan logger'](https://www.npmjs.com/package/bunyan-logger) for logging.
+1. The Node.js app will be deployed on the AWS EC2 instance. The app configuration to be modified to employ ['bunyan logger'](https://www.npmjs.com/package/bunyan-logger) for logging.
 
-2. ELK stack within three containers using 'Docker-compose'.
+2. ELK stack will be deployed within three containers using 'Docker-compose'.
 
-3. MySQL database deployed as a Docker container.
+3. MySQL database will be deployed as a Docker container.
 
 <br>
 
