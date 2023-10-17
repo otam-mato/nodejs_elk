@@ -160,7 +160,7 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 
 ## Prerequisites
 
-- A work station or **EC2** instance (I am using **Ubuntu 22.04**) to be used as a master node.
+- A work station or **EC2** instance (I am using **Ubuntu 22.04**).
    
 - <details markdown=1><summary markdown="span">Install and configure your AWS CLI.</summary>
    <br>
