@@ -23,7 +23,7 @@
 
 ## Architecture Diagram
 
-<img width="1000" alt="Screenshot 2023-10-17 at 19 50 22" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/dde1d276-b182-4b70-b5f3-9ce4c707f086">
+<img width="700" alt="Screenshot 2023-10-17 at 19 50 22" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/dde1d276-b182-4b70-b5f3-9ce4c707f086">
 
 <br>
 
