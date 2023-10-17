@@ -157,3 +157,16 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 </details>
 
 <br>
+
+## Implementation Steps
+
+Follow these steps for successful implementation:
+
+1. [**Modify the app files to employ Bunyan for logging**]()
+2. [**Launch the app**]()
+3. [**Launch the Dockerized MySQL server**]()
+4. [**Launch Elastic Search, Logstash, Kibana using Docker-compose manifest**]()
+5. [**Set up Kibana**]()
+6. [**Test the app**]()
+
+<br>
