@@ -105,7 +105,7 @@ The implemented logging solution maintains a detailed diary (logs) of everything
 
 **<details markdown=1><summary markdown="span">Details of the ELK stack</summary>**
 
-**We launch ELK containers using this [docker-compose file]()**
+**We launch our ELK stack using this [docker-compose file]()**
    
 The ELK stack, which stands for Elasticsearch, Logstash, and Kibana, is a popular set of tools for searching, analyzing, and visualizing data in real-time. Over the years, the stack has grown to include Beats and is sometimes referred to as the Elastic Stack, but ELK remains a popular term. Here's a detailed description of each component:
 
