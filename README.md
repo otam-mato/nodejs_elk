@@ -80,7 +80,7 @@ The app sets up a web server for a supplier management system. It allows viewing
 
 <br>
 
-<details markdown=1><summary markdown="span">Details of the Logging solution</summary>
+**<details markdown=1><summary markdown="span">Details of the Logging solution</summary>**
 
 ## Summary
 
