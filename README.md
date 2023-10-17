@@ -21,6 +21,10 @@
 
 <br>
 
+## Architecture Diagram
+
+<br>
+
 ## Technologies used
 - **ELK stack (Elastic search, Logstash, Kibana)**
 - **Node.JS**
