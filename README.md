@@ -35,7 +35,7 @@
 
 ## Application Functionality
 
-This web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records.
+This web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records. Logging is implemented based on 'Bunyan logger'. Monitoring of logs implemented on ELK stack.
 
 **<details markdown=1><summary markdown="span">Detailed app description</summary>**
 
