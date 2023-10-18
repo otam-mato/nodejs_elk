@@ -207,7 +207,12 @@ Follow these steps for successful implementation:
 
 ## Steps
 
-### Modify the app files to employ Bunyan for logging
+### 1. Modify the app files to employ Bunyan for logging
 
 - [**config.js**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
 - [**index.js**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+
+### 2. Create the Logstash configuration file
+
+- [**nodeapp.conf**]()
+
