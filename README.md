@@ -210,3 +210,4 @@ Follow these steps for successful implementation:
 ### Modify the app files to employ Bunyan for logging
 
 - [**config.js**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
+- [**index.js**]()
