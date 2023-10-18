@@ -249,7 +249,8 @@ docker run --name mysql_1 -p 3306:3306 -d mysql_server
 node index.js
 ```
 
-<img width="700" alt="S" src="https://github.com/otammato/6_ELK_monitoring_NodeJS_logs/assets/104728608/fe9bae98-79a2-4714-bd3b-a8001acb08a2">
+<img width="700" alt="S" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/7a5a54d9-535e-44d1-b91f-d589795523ba">
+
 
 <br>
 
