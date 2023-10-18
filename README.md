@@ -251,7 +251,7 @@ Follow these steps for successful implementation:
 docker-compose up
 ```
 
-### 4. To start the backend (mysql database) pull and run this image from DockerHub:
+### 4. To employ the mysql database pull and run this image from DockerHub:
 
 ```
 docker pull montcarotte/fullstack_nodejs_mysql_demo:mysql_server
