@@ -225,7 +225,21 @@ Follow these steps for successful implementation:
 docker-compose up
 ```
 
-### 4. Launch the app and click a few times at any links to emit the logs.
+### 4. To start the backend (mysql database) pull and run this image from DockerHub:
+
+```
+docker pull montcarotte/fullstack_nodejs_mysql_demo:mysql_server
+```
+
+<img width="1000" alt="S" src="https://github.com/otammato/6_ELK_monitoring_NodeJS_logs/assets/104728608/3a67f57c-66c9-45a0-a3b5-97b07c554106">
+
+```
+docker run --name mysql_1 -p 3306:3306 -d mysql_server
+```
+
+<br>
+
+### 5. Launch the app and click a few times at any links to emit the logs.
 
 **node.js app:**
 
