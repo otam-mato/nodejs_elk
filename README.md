@@ -184,7 +184,7 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 Follow these steps for successful implementation:
 
 1. [**Modify the app files to employ Bunyan for logging**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#modify-the-app-files-to-employ-bunyan-for-logging)
-2. [**Create the Logstash configuration file**]()
+2. [**Create the Logstash configuration file**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#2-create-the-logstash-configuration-file)
 3. [**Launch the app**]()
 4. [**Launch the Dockerized MySQL server**]()
 5. [**Launch Elastic Search, Logstash, Kibana using Docker-Compose manifest**]()
