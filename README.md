@@ -175,12 +175,14 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
    
 - <details markdown=1><summary markdown="span">Install Docker-compose, Node.js, npm, and Git </summary>
    <br>
+   
    1. Install Docker-compose
 
    ```
    sudo apt update
    sudo apt install docker-compose
    ```
+   
    2. Install Node.js
 
    ```
