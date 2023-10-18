@@ -195,3 +195,11 @@ Follow these steps for successful implementation:
 
 ## Screenshots
 
+<p align="center">
+  <img src="https://github.com/otam-mato/nodejs_elk/assets/113034133/447326c7-fd05-46a9-9385-42a96e06ba7d" width="800px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/otam-mato/nodejs_elk/assets/113034133/d28a657f-9732-42d9-ab43-62c77f8b503b" width="800px"/>
+</p>
+
