@@ -211,11 +211,11 @@ Follow these steps for successful implementation:
 
 1. [**Modify the app files to employ Bunyan for logging**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#modify-the-app-files-to-employ-bunyan-for-logging)
 2. [**Create the Logstash configuration file**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#2-create-the-logstash-configuration-file)
-4. [**Launch the Dockerized MySQL server**]()
-5. [**Launch Elastic Search, Logstash, Kibana using Docker-Compose manifest**]()
-6. [**Launch the app**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
-7. [**Set up Kibana (index pattern and dashboard)**]()
-8. [**Test the app**]()
+4. [**Launch Elastic Search, Logstash, Kibana using Docker-Compose manifest**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
+5. [**Launch the Dockerized MySQL server**]()
+7. [**Launch the app**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
+8. [**Set up Kibana (index pattern and dashboard)**]()
+9. [**Test the app**]()
 
 <br>
 
