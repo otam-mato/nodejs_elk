@@ -214,7 +214,7 @@ Follow these steps for successful implementation:
 4. [**Launch Elastic Search, Logstash, Kibana using Docker-Compose manifest**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
 5. [**Launch the Dockerized MySQL server**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#4-to-employ-the-mysql-database-pull-and-run-this-image-from-dockerhub)
 7. [**Launch the app**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
-8. [**Set up Kibana (index pattern and dashboard)**]()
+8. [**Set up Kibana (index pattern and dashboard)**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#7-set-up-kibana-set-up-index-pattern-and-a-dashboard)
 9. [**Check the result / Create a dashboard**]()
 
 <br>
