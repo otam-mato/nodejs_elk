@@ -112,6 +112,12 @@ The implemented logging solution maintains a detailed diary (logs) of everything
 #### **Server Activities**:
    - Be it starting up, or any supplier-related activity like viewing, adding, or deleting, everything gets its own log entry.
 
+#### **Streams**:
+   - Three streams are set up:
+     - write to ./logs.log file locally
+     - send to process.stdout
+     - send to Logstash
+
 </details>
 
 **<details markdown=1><summary markdown="span">Details of the ELK stack</summary>**
