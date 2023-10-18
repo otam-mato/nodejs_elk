@@ -254,7 +254,7 @@ node index.js
 
 - **check the logs being ptoduced:**
 
-[logs.log]()
+As one of the routes suggests keeping logs in a file, check [logs.log](https://github.com/otam-mato/nodejs_elk/blob/c598480951240597d07810e2eff4464b7bdf8d91/logs.log)
 
 <br>
 
