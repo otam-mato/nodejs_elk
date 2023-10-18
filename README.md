@@ -277,7 +277,7 @@ node index.js
 
 <img width="700" alt="Screenshot 2023-08-21 at 22 32 05" src="https://github.com/otammato/ELK_monitoring_NodeJS_logs/assets/104728608/a7b6560f-a7bd-47a2-8133-1eca1d896830">
 
-<br>
+<br><br>
 
 - **the example of a dashboard:**
 
