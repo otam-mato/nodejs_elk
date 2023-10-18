@@ -269,9 +269,14 @@ node index.js
 
 <img width="700" alt="Screenshot 2023-08-21 at 22 24 24" src="https://github.com/otammato/ELK_monitoring_NodeJS_logs/assets/104728608/56b8f390-011f-469c-b756-69ee23829557">
 
-<br>
+<br><br>
 
 ### 7. Result
 
+- **logs are being collected and ready for further analyzing**
+
 <img width="700" alt="Screenshot 2023-08-21 at 22 32 05" src="https://github.com/otammato/ELK_monitoring_NodeJS_logs/assets/104728608/a7b6560f-a7bd-47a2-8133-1eca1d896830">
+
+- **the sample dashboard:**
+
 <img width="700" alt="Screenshot 2023-08-23 at 11 34 11" src="https://github.com/otammato/ELK_monitoring_NodeJS_logs/assets/104728608/c6b07918-2887-4f00-987b-5d2184ebab04">
