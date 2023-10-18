@@ -1,5 +1,5 @@
 
-# Node.JS + MySQL Web App.<br><br>Monitoring logs of the app using ELK stack.
+# Node.JS + MySQL Web App.<br><br>Monitoring logs of the app with ELK stack.
 
 <br>
 
