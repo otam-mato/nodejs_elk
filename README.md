@@ -225,7 +225,7 @@ Follow these steps for successful implementation:
 docker-compose up
 ```
 
-## 6. Launch the app and click a few times at any links to emit the logs.
+### 4. Launch the app and click a few times at any links to emit the logs.
 
 **node.js app:**
 
