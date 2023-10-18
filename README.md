@@ -216,3 +216,6 @@ Follow these steps for successful implementation:
 
 - [**nodeapp.conf**](https://github.com/otam-mato/nodejs_elk/blob/1a84d36fd5b4b2143a74871e60a6e3b30a3ec8af/nodeapp.conf)
 
+### 3. Launch the ELK stack with this Docker-compose file
+
+- [**docker-compose.yml**]()
