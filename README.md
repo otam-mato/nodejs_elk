@@ -173,8 +173,31 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 
 - A work station or an **EC2** instance (I am using **Ubuntu 22.04**).
    
-- <details markdown=1><summary markdown="span">Install Node.js, npm, Git, and Docker</summary>
+- <details markdown=1><summary markdown="span">Install Docker-compose, Node.js, npm, and Git </summary>
    <br>
+   1. Install Docker-compose
+
+   ```
+   sudo apt update
+   sudo apt install docker-compose
+   ```
+   2. Install Node.js
+
+   ```
+   sudo apt install nodejs
+   ```
+   3. Install npm
+
+   ```
+   sudo apt install npm
+   ```
+   
+   4. Install Git
+
+   ```
+   sudo apt install git
+   ```
+   
   </details>
 
 <br>
