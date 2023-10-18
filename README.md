@@ -233,6 +233,8 @@ docker pull montcarotte/fullstack_nodejs_mysql_demo:mysql_server
 
 <img width="700" alt="S" src="https://github.com/otammato/6_ELK_monitoring_NodeJS_logs/assets/104728608/3a67f57c-66c9-45a0-a3b5-97b07c554106">
 
+<br>
+
 ```
 docker run --name mysql_1 -p 3306:3306 -d mysql_server
 ```
