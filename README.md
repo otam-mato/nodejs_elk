@@ -252,7 +252,7 @@ node index.js
 
 <img width="700" alt="S" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/7a5a54d9-535e-44d1-b91f-d589795523ba">
 
-- **check the logs being ptoduced:**
+- **check the logs being produced:**
 
   As one of the routes suggests keeping logs in a file, check [logs.log](https://github.com/otam-mato/nodejs_elk/blob/c598480951240597d07810e2eff4464b7bdf8d91/logs.log)
 
