@@ -252,6 +252,9 @@ node index.js
 
 <img width="700" alt="S" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/7a5a54d9-535e-44d1-b91f-d589795523ba">
 
+- **check the logs being ptoduced:**
+
+[logs.log]()
 
 <br>
 
