@@ -241,13 +241,14 @@ docker run --name mysql_1 -p 3306:3306 -d mysql_server
 
 <br>
 
-### 5. Launch the app and click a few times at any links to emit the logs.
+### 5. Launch the app and click a few times at any links to start producing logs.
 
-**node.js app:**
+- **start the app:**
 
 ```js
 node index.js
 ```
+- **access the app via port 3000:**
 
 <img width="700" alt="S" src="https://github.com/otam-mato/nodejs_elk/assets/113034133/7a5a54d9-535e-44d1-b91f-d589795523ba">
 
