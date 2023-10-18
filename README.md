@@ -209,4 +209,4 @@ Follow these steps for successful implementation:
 
 ### Modify the app files to employ Bunyan for logging
 
-- 
+- [**config.js**]()
