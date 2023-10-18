@@ -219,5 +219,8 @@ Follow these steps for successful implementation:
 ### 3. Launch the ELK stack with this Docker-compose file
 
 - [**docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/df0d9df49a571fefb756d48106e63a51d52e01d1/docker-compose.yml)
+
   
-```docker-compose up```
+```
+docker-compose up
+```
