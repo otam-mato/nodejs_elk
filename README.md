@@ -171,7 +171,7 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 
 ## Prerequisites
 
-- A work station or **EC2** instance (I am using **Ubuntu 22.04**).
+- A work station or an **EC2** instance (I am using **Ubuntu 22.04**).
    
 - <details markdown=1><summary markdown="span">Install Node.js, npm, Git, and Docker</summary>
    <br>
