@@ -224,3 +224,13 @@ Follow these steps for successful implementation:
 ```
 docker-compose up
 ```
+
+## 6. Launch the app and click a few times at any links to emit the logs.
+
+**node.js app:**
+
+```js
+node index.js
+```
+
+<img width="800" alt="S" src="https://github.com/otammato/6_ELK_monitoring_NodeJS_logs/assets/104728608/fe9bae98-79a2-4714-bd3b-a8001acb08a2">
