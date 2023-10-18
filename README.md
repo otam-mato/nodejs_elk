@@ -179,11 +179,11 @@ Together, the ELK stack provides an end-to-end solution for gathering, processin
 
 <br>
 
-## Implementation Steps
+## Implementation
 
 Follow these steps for successful implementation:
 
-1. [**Modify the app files to employ Bunyan for logging**]()
+1. [**Modify the app files to employ Bunyan for logging**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#modify-the-app-files-to-employ-bunyan-for-logging)
 2. [**Create the Logstash configuration file**]()
 3. [**Launch the app**]()
 4. [**Launch the Dockerized MySQL server**]()
@@ -208,3 +208,5 @@ Follow these steps for successful implementation:
 ## Steps
 
 ### Modify the app files to employ Bunyan for logging
+
+- 
