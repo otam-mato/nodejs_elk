@@ -113,10 +113,15 @@ The implemented logging solution maintains a detailed diary (logs) of everything
    - Be it starting up, or any supplier-related activity like viewing, adding, or deleting, everything gets its own log entry.
 
 #### **Streams**:
-   - Three streams are set up:
-     - write to ./logs.log file locally
-     - send to process.stdout
-     - send to Logstash
+   - I've established three distinct streams:
+     - Local File Storage:
+       Data is written to a local file, specifically './logs.log.' This file acts as a permanent repository for logs, ensuring a reliable and accessible record of system events.
+     - Send log data to the standard output (process.stdout).
+       This allows real-time visibility and monitoring of logs directly in the terminal or console, facilitating debugging and immediate insights into the application's behavior
+     - Logstash Integration:
+       Our third stream channels data to Logstash, forming a crucial link in our log management infrastructure. Logstash processes and forwards log entries to our centralized log analysis system, ensuring that log data is efficiently collected, parsed, and made available for in-depth analysis and monitoring.
+
+<br>
 
 </details>
 
