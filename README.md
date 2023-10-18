@@ -203,3 +203,8 @@ Follow these steps for successful implementation:
   <img src="https://github.com/otam-mato/nodejs_elk/assets/113034133/d28a657f-9732-42d9-ab43-62c77f8b503b" width="800px"/>
 </p>
 
+<br>
+
+## Steps
+
+### Modify the app files to employ Bunyan for logging
