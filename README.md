@@ -14,7 +14,7 @@
 ## Deployment Strategy
 
 1. **Node.js Application Deployment:**
-   We will deploy the Node.js application on an AWS EC2 instance. As part of this deployment, we will enhance the application's logging capabilities by implementing the 'bunyan logger' for structured logging.
+   We will deploy the Node.js application on an AWS EC2 instance. As part of this deployment, we will employ the application's logging capabilities by implementing the 'bunyan logger' for structured logging.
 
 2. **ELK Stack Implementation:**
    We will employ the ELK (Elasticsearch, Logstash, Kibana) stack, utilizing Docker-compose to pull and run three containers. This setup ensures centralized log collection, processing, and visualization, streamlining troubleshooting and monitoring.
